@@ -1,7 +1,19 @@
 # Interactive Sales Dashboard Project (Tableau + Excel)
 
-This project is an end-to-end data analysis and visualization project. It starts with a raw sales dataset, which is cleaned in Excel, and then used to build a fully interactive, filterable sales dashboard in Tableau.
+This project focuses on analyzing sales data to uncover key business insights and support data-driven decision-making. 
 
+The raw dataset was cleaned and preprocessed in Excel, including handling missing values, correcting data types, and removing duplicates. The cleaned data was then used to build an interactive and dynamic sales dashboard in Tableau.
+
+The dashboard provides insights into sales performance, profit trends, regional analysis, and top-selling products, enabling users to explore data through filters and visualizations.
+
+## What I Did
+
+- Cleaned raw sales dataset using Excel (handled null values, corrected data types, removed duplicates)
+- Created calculated fields and KPIs in Tableau (Sales, Profit, Orders)
+- Designed interactive dashboard with filters for region, category, and time
+- Analyzed trends to identify top-performing products and profitable regions
+
+## This project helped in identifying key sales patterns and improving understanding of business performance through visual analytics.
 
 ##  dashboards
 ###  View the Live Interactive Dashboard
