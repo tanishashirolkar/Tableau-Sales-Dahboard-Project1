@@ -31,4 +31,4 @@ This dashboard analyzes sales data to answer key business questions:
 
 ### 📁 Project Files
 * *Sales_Data_Clean.xlsx*: The cleaned Excel data file used as the data source for Tableau.
-* *MyProjectDashboard1.twbx*: The Tableau Packaged Workbook. You can download this file and open it with Tableau Public to see the full project build.
+* *Sales Project Dashboard.twbx*: The Tableau Packaged Workbook. You can download this file and open it with Tableau Public to see the full project build.
