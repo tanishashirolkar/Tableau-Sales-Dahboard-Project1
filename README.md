@@ -10,7 +10,7 @@ This project is an end-to-end data analysis and visualization project. It starts
 
 
 ###  Dashboard Screenshot
-![Sales Dashboard](Dash_Screenshot)
+![Sales Dashboard](Dash_Screenshot.png)
 
 
 
